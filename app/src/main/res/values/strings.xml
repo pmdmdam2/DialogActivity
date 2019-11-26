@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DialogActivity</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="pregunta">¿Te gusta la Navidad?</string>
+    <string name="opinion">Opinión sobre la fiesta de la Navidad</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="ver">Ver</string>
+    <string name="titulo_opinion">Opinión</string>
+</resources>
